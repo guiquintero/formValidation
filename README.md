@@ -1,9 +1,13 @@
 
-<p align="center">Formulário de criação de contas para o banco virtual MoniBank.</p>
-
-## Tecnologias utilizadas durante o curso
+<p align="center">Account creation form for the MoniBank virtual bank.</p>
+## Technologies used during the course
 * JavaScript
 
-## Tecnologias utilizadas no projeto
+## Technologies used in the project
 * HTML
 * CSS
+
+To see more:
+https://form-validation-psi-kohl.vercel.app/
+
+![image](https://github.com/guiquintero/formValidation/assets/62731566/f511e0ab-f351-4fa8-823a-9ca9c3b6845a)
