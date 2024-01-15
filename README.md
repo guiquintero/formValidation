@@ -2,7 +2,7 @@
 <p align="center">Account creation form for the MoniBank virtual bank.</p>
 
 ## Technologies used in the project
-* JavaScript
+* JavaScript 
 * HTML
 * CSS
 
